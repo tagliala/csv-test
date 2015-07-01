@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'client_side_validations', github: 'DavyJonesLocker/client_side_validations'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
