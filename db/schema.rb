@@ -15,6 +15,7 @@ ActiveRecord::Schema.define(version: 20150701115736) do
 
   create_table "posts", force: :cascade do |t|
     t.string   "start_at_time"
+    t.string   "email"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'client_side_validations', github: 'DavyJonesLocker/client_side_validations'
+gem 'client_side_validations', github: 'DavyJonesLocker/client_side_validations', ref: 'b925ba8a8da1ea0b9b0445189d03cd66bbe2e653'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.3'
+gem 'rails', '4.2.4'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
